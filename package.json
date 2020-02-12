@@ -1,0 +1,23 @@
+{
+  "name": "nangning-date-parser",
+  "version": "1.0.0",
+  "description": "date parser",
+  "main": "date.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anangnovriadi/nangning-date-parser.git"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "anangnovriadi <anangnov99@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anangnovriadi/nangning-date-parser/issues"
+  },
+  "homepage": "https://github.com/anangnovriadi/nangning-date-parser#readme"
+}
