@@ -1,5 +1,7 @@
 'use strict';
 
+const list = require('./list');
+
 // This function will find month by code
 const findCode = (code, lang) => {
     const element = list.map((val, i) => {

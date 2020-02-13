@@ -17,6 +17,8 @@ npm install nangning-date-parser
 ## Usage
 ```javascript
 const parser = require("nangning-date-parser");
+// or
+var parser = require("nangning-date-parser");
 
 // Sample Dateparser
 parser.parse('2020-03-02 13:35:00', 'id', true, '')

@@ -1,6 +1,6 @@
 {
   "name": "nangning-date-parser",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "date parser",
   "main": "date.js",
   "scripts": {
