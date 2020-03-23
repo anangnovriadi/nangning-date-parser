@@ -1,5 +1,5 @@
 # nangning-date-parser
-This sample date parser you can use.
+This is sample date parser you can use.
 
 ## Installation
 ```
